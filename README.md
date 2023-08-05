@@ -1,4 +1,4 @@
-![image](https://github.com/behruzbedeveloper/imlionTextile/assets/139049825/6cd51744-ebbe-4487-98f1-1b050d070fe4)Textile website:
+Textile website:
 netlify url: [imlio](https://imlion-textile.netlify.app/),
 real url: [imlio](https://imlion.uz/),
 
@@ -8,3 +8,4 @@ real url: [imlio](https://imlion.uz/),
 ![image](https://github.com/behruzbedeveloper/imlionTextile/assets/139049825/97550f9e-383c-4483-8cd3-d2b3a90a87fa)
 ![image](https://github.com/behruzbedeveloper/imlionTextile/assets/139049825/7d45a7b9-9b3f-4b95-a502-d51ead0d231c)
 ![image](https://github.com/behruzbedeveloper/imlionTextile/assets/139049825/4d5e7a2b-1a7b-4bed-85f3-f0133e06044b)
+![image](https://github.com/behruzbedeveloper/imlionTextile/assets/139049825/6cd51744-ebbe-4487-98f1-1b050d070fe4)
